@@ -1,0 +1,639 @@
+fileFormatVersion: 2
+guid: cdb106a3b82dfa842bc16f916ec1b0fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6282579775106876611
+    second: notre_dame_paris_0
+  - first:
+      213: 3679399715103975426
+    second: notre_dame_paris_1
+  - first:
+      213: -6805992495754707024
+    second: notre_dame_paris_2
+  - first:
+      213: 8831379225974498474
+    second: notre_dame_paris_3
+  - first:
+      213: 3087785114854747764
+    second: notre_dame_paris_4
+  - first:
+      213: 7249906313524830528
+    second: notre_dame_paris_5
+  - first:
+      213: -8373083662346178273
+    second: notre_dame_paris_6
+  - first:
+      213: -4674311617919096894
+    second: notre_dame_paris_7
+  - first:
+      213: -3824431225157984798
+    second: notre_dame_paris_8
+  - first:
+      213: -3532088164590993901
+    second: notre_dame_paris_9
+  - first:
+      213: -161244043164223276
+    second: notre_dame_paris_10
+  - first:
+      213: -4214129647128018438
+    second: notre_dame_paris_11
+  - first:
+      213: 8257117485218692645
+    second: notre_dame_paris_12
+  - first:
+      213: 3145422448025245274
+    second: notre_dame_paris_13
+  - first:
+      213: 2138828453624603455
+    second: notre_dame_paris_14
+  - first:
+      213: 7724270138438666408
+    second: notre_dame_paris_15
+  - first:
+      213: 2927977272635500012
+    second: notre_dame_paris_16
+  - first:
+      213: -1664433701369784524
+    second: notre_dame_paris_17
+  - first:
+      213: -6832843900716189420
+    second: notre_dame_paris_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: notre_dame_paris_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 637
+        width: 1872
+        height: 779
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b73b72bfacfc8a0800000000000000
+      internalID: -6282579775106876611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_1
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1411
+        width: 30
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208227deb8adf0330800000000000000
+      internalID: 3679399715103975426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1170
+        width: 6
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bff09282e14c81a0800000000000000
+      internalID: -6805992495754707024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_3
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 1049
+        width: 6
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa469f88d9c5f8a70800000000000000
+      internalID: 8831379225974498474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 630
+        width: 49
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ee7a1c3340ada20800000000000000
+      internalID: 3087785114854747764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 630
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04162886167dc9460800000000000000
+      internalID: 7249906313524830528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 630
+        width: 54
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11ba3785c4dccb80800000000000000
+      internalID: -8373083662346178273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_7
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 630
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7637c5952812fb0800000000000000
+      internalID: -4674311617919096894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_8
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 630
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eddb8c3014eceac0800000000000000
+      internalID: -3824431225157984798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_9
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 629
+        width: 56
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e313237808bfec0800000000000000
+      internalID: -3532088164590993901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 630
+        width: 60
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d87c05a56523cdf0800000000000000
+      internalID: -161244043164223276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_11
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 630
+        width: 55
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af10e71d9676485c0800000000000000
+      internalID: -4214129647128018438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_12
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 630
+        width: 57
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e702fca9c279270800000000000000
+      internalID: 8257117485218692645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_13
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 627
+        width: 57
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5695132d09c6ab20800000000000000
+      internalID: 3145422448025245274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_14
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 630
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33eac58525aead10800000000000000
+      internalID: 2138828453624603455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_15
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 630
+        width: 56
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a84bc614ce123b60800000000000000
+      internalID: 7724270138438666408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_16
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 630
+        width: 53
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52bddf0d342a820800000000000000
+      internalID: 2927977272635500012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_17
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 630
+        width: 51
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4375aadfd5eb6e8e0800000000000000
+      internalID: -1664433701369784524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: notre_dame_paris_18
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 630
+        width: 47
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419fd1c9cacdc21a0800000000000000
+      internalID: -6832843900716189420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      notre_dame_paris_0: -6282579775106876611
+      notre_dame_paris_1: 3679399715103975426
+      notre_dame_paris_10: -161244043164223276
+      notre_dame_paris_11: -4214129647128018438
+      notre_dame_paris_12: 8257117485218692645
+      notre_dame_paris_13: 3145422448025245274
+      notre_dame_paris_14: 2138828453624603455
+      notre_dame_paris_15: 7724270138438666408
+      notre_dame_paris_16: 2927977272635500012
+      notre_dame_paris_17: -1664433701369784524
+      notre_dame_paris_18: -6832843900716189420
+      notre_dame_paris_2: -6805992495754707024
+      notre_dame_paris_3: 8831379225974498474
+      notre_dame_paris_4: 3087785114854747764
+      notre_dame_paris_5: 7249906313524830528
+      notre_dame_paris_6: -8373083662346178273
+      notre_dame_paris_7: -4674311617919096894
+      notre_dame_paris_8: -3824431225157984798
+      notre_dame_paris_9: -3532088164590993901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: bb8a2ba6ad82cc945b5db1b03c66555f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2888443121688297269
+    second: cabin_luggage_0
+  - first:
+      213: -383175184387938939
+    second: cabin_luggage_1
+  - first:
+      213: 1079606869585980765
+    second: cabin_luggage_2
+  - first:
+      213: -1925532930544366889
+    second: cabin_luggage_3
+  - first:
+      213: -1373579852788075878
+    second: cabin_luggage_4
+  - first:
+      213: 2924385800254400302
+    second: cabin_luggage_5
+  - first:
+      213: 60389629826272420
+    second: cabin_luggage_6
+  - first:
+      213: -4911423474527866904
+    second: cabin_luggage_7
+  - first:
+      213: 7769470263349071167
+    second: cabin_luggage_8
+  - first:
+      213: 4679684162882927212
+    second: cabin_luggage_9
+  - first:
+      213: -2620522713028867571
+    second: cabin_luggage_10
+  - first:
+      213: -773558366745872490
+    second: cabin_luggage_11
+  - first:
+      213: 708825524027281864
+    second: cabin_luggage_12
+  - first:
+      213: 4047783395631138365
+    second: cabin_luggage_13
+  - first:
+      213: 6310452758225618180
+    second: cabin_luggage_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cabin_luggage_0
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 242
+        width: 807
+        height: 1564
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb62e27bfc51820800000000000000
+      internalID: 2888443121688297269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_1
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1801
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585efcf2330beaaf0800000000000000
+      internalID: -383175184387938939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_2
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1209
+        width: 11
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d6eb65ab88bfe00800000000000000
+      internalID: 1079606869585980765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 972
+        width: 51
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da069760022745e0800000000000000
+      internalID: -1925532930544366889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_4
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1154
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92fee3c66010fce0800000000000000
+      internalID: -1373579852788075878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_5
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1055
+        width: 6
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e272c5a2461859820800000000000000
+      internalID: 2924385800254400302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_6
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 894
+        width: 6
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac89e16c0c86d000800000000000000
+      internalID: 60389629826272420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_7
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 799
+        width: 6
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef604b2f5e17dbb0800000000000000
+      internalID: -4911423474527866904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_8
+      rect:
+        serializedVersion: 2
+        x: 1455
+        y: 767
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dc1e34a04b2db60800000000000000
+      internalID: 7769470263349071167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_9
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 518
+        width: 52
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a78adb3f391f040800000000000000
+      internalID: 4679684162882927212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_10
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 662
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a42140a7802abd0800000000000000
+      internalID: -2620522713028867571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_11
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 562
+        width: 6
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697b41193c4c345f0800000000000000
+      internalID: -773558366745872490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_12
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 434
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1506ffe0146d900800000000000000
+      internalID: 708825524027281864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_13
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 236
+        width: 39
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3681506d8d9c2830800000000000000
+      internalID: 4047783395631138365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cabin_luggage_14
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 241
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4050ce1795b339750800000000000000
+      internalID: 6310452758225618180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      cabin_luggage_0: 2888443121688297269
+      cabin_luggage_1: -383175184387938939
+      cabin_luggage_10: -2620522713028867571
+      cabin_luggage_11: -773558366745872490
+      cabin_luggage_12: 708825524027281864
+      cabin_luggage_13: 4047783395631138365
+      cabin_luggage_14: 6310452758225618180
+      cabin_luggage_2: 1079606869585980765
+      cabin_luggage_3: -1925532930544366889
+      cabin_luggage_4: -1373579852788075878
+      cabin_luggage_5: 2924385800254400302
+      cabin_luggage_6: 60389629826272420
+      cabin_luggage_7: -4911423474527866904
+      cabin_luggage_8: 7769470263349071167
+      cabin_luggage_9: 4679684162882927212
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

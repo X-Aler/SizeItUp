@@ -1,0 +1,922 @@
+[
+  {
+    "id": "human_hair",
+    "name_ru": "Человеческий волос",
+    "name_en": "Human Hair",
+    "size_meters": 0.00008,
+    "dimension_type": "thickness",
+    "category": "micro"
+  },
+  {
+    "id": "grain_of_sand",
+    "name_ru": "Песчинка",
+    "name_en": "Grain of Sand",
+    "size_meters": 0.0005,
+    "dimension_type": "diameter",
+    "category": "nature"
+  },
+  {
+    "id": "flea",
+    "name_ru": "Блоха",
+    "name_en": "Flea",
+    "size_meters": 0.002,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "ant",
+    "name_ru": "Муравей",
+    "name_en": "Ant",
+    "size_meters": 0.005,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "mosquito",
+    "name_ru": "Комар",
+    "name_en": "Mosquito",
+    "size_meters": 0.006,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "ladybug",
+    "name_ru": "Божья коровка",
+    "name_en": "Ladybug",
+    "size_meters": 0.008,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "coffee_bean",
+    "name_ru": "Кофейное зерно",
+    "name_en": "Coffee Bean",
+    "size_meters": 0.012,
+    "dimension_type": "length",
+    "category": "food"
+  },
+  {
+    "id": "sugar_cube",
+    "name_ru": "Кубик сахара",
+    "name_en": "Sugar Cube",
+    "size_meters": 0.015,
+    "dimension_type": "side",
+    "category": "food"
+  },
+  {
+    "id": "dice",
+    "name_ru": "Игральная кость",
+    "name_en": "Gaming Die",
+    "size_meters": 0.016,
+    "dimension_type": "side",
+    "category": "items"
+  },
+  {
+    "id": "coin",
+    "name_ru": "Монета 2 рубля",
+    "name_en": "2 Ruble Coin",
+    "size_meters": 0.023,
+    "dimension_type": "diameter",
+    "category": "items"
+  },
+  {
+    "id": "paper_clip",
+    "name_ru": "Канцелярская скрепка",
+    "name_en": "Paper Clip",
+    "size_meters": 0.032,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "matchbox",
+    "name_ru": "Спичечный коробок",
+    "name_en": "Matchbox",
+    "size_meters": 0.05,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "tennis_ball",
+    "name_ru": "Теннисный мяч",
+    "name_en": "Tennis Ball",
+    "size_meters": 0.067,
+    "dimension_type": "diameter",
+    "category": "sports"
+  },
+  {
+    "id": "billiard_ball",
+    "name_ru": "Бильярдный шар",
+    "name_en": "Billiard Ball",
+    "size_meters": 0.068,
+    "dimension_type": "diameter",
+    "category": "sports"
+  },
+  {
+    "id": "rubber_duck",
+    "name_ru": "Резиновая уточка",
+    "name_en": "Rubber Duck",
+    "size_meters": 0.08,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "credit_card",
+    "name_ru": "Банковская карта",
+    "name_en": "Credit Card",
+    "size_meters": 0.086,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "soda_can",
+    "name_ru": "Банка газировки 0.33 л",
+    "name_en": "Soda Can 330ml",
+    "size_meters": 0.115,
+    "dimension_type": "height",
+    "category": "food"
+  },
+  {
+    "id": "matryoshka",
+    "name_ru": "Матрёшка",
+    "name_en": "Matryoshka Nesting Doll",
+    "size_meters": 0.12,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "smartphone",
+    "name_ru": "Смартфон",
+    "name_en": "Smartphone",
+    "size_meters": 0.147,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "standard_pencil",
+    "name_ru": "Простой карандаш",
+    "name_en": "Graphite Pencil",
+    "size_meters": 0.175,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "brick_game",
+    "name_ru": "Электронная игра Тетрис",
+    "name_en": "Brick Game Tetris Handheld",
+    "size_meters": 0.18,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "rotary_phone",
+    "name_ru": "Дисковый телефон",
+    "name_en": "Rotary Dial Telephone",
+    "size_meters": 0.22,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "basketball",
+    "name_ru": "Баскетбольный мяч",
+    "name_en": "Basketball",
+    "size_meters": 0.24,
+    "dimension_type": "diameter",
+    "category": "sports"
+  },
+  {
+    "id": "tablet",
+    "name_ru": "Планшет",
+    "name_en": "Tablet",
+    "size_meters": 0.248,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "cat",
+    "name_ru": "Домашняя кошка",
+    "name_en": "Domestic Cat",
+    "size_meters": 0.25,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "brick",
+    "name_ru": "Стандартный кирпич",
+    "name_en": "Standard Brick",
+    "size_meters": 0.25,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "a4_paper",
+    "name_ru": "Лист бумаги А4",
+    "name_en": "A4 Paper Sheet",
+    "size_meters": 0.297,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "microwave",
+    "name_ru": "Микроволновка",
+    "name_en": "Microwave",
+    "size_meters": 0.3,
+    "dimension_type": "height",
+    "category": "appliances"
+  },
+  {
+    "id": "wall_clock",
+    "name_ru": "Настенные часы",
+    "name_en": "Wall Clock",
+    "size_meters": 0.3,
+    "dimension_type": "diameter",
+    "category": "items"
+  },
+  {
+    "id": "pigeon",
+    "name_ru": "Городской голубь",
+    "name_en": "City Pigeon",
+    "size_meters": 0.33,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "shoebox",
+    "name_ru": "Обувная коробка",
+    "name_en": "Shoebox",
+    "size_meters": 0.35,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "laptop",
+    "name_ru": "Ноутбук",
+    "name_en": "Laptop",
+    "size_meters": 0.36,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "bowling_pin",
+    "name_ru": "Кегля для боулинга",
+    "name_en": "Bowling Pin",
+    "size_meters": 0.38,
+    "dimension_type": "height",
+    "category": "sports"
+  },
+  {
+    "id": "fire_extinguisher",
+    "name_ru": "Огнетушитель",
+    "name_en": "Fire Extinguisher",
+    "size_meters": 0.42,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "traffic_cone",
+    "name_ru": "Дорожный конус",
+    "name_en": "Traffic Cone",
+    "size_meters": 0.5,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "velociraptor",
+    "name_ru": "Велоцираптор",
+    "name_en": "Velociraptor",
+    "size_meters": 0.5,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "ukulele",
+    "name_ru": "Укулеле",
+    "name_en": "Ukulele",
+    "size_meters": 0.53,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "cabin_luggage",
+    "name_ru": "Чемодан для ручной клади",
+    "name_en": "Cabin Luggage",
+    "size_meters": 0.55,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "skateboard",
+    "name_ru": "Скейтборд",
+    "name_en": "Skateboard",
+    "size_meters": 0.8,
+    "dimension_type": "length",
+    "category": "sports"
+  },
+  {
+    "id": "fire_hydrant",
+    "name_ru": "Пожарный гидрант",
+    "name_en": "Fire Hydrant",
+    "size_meters": 0.9,
+    "dimension_type": "height",
+    "category": "city"
+  },
+  {
+    "id": "office_chair",
+    "name_ru": "Кресло",
+    "name_en": "Office Chair",
+    "size_meters": 0.95,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "acoustic_guitar",
+    "name_ru": "Акустическая гитара",
+    "name_en": "Acoustic Guitar",
+    "size_meters": 1.0,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "shopping_cart",
+    "name_ru": "Продуктовая тележка",
+    "name_en": "Shopping Cart",
+    "size_meters": 1.0,
+    "dimension_type": "height",
+    "category": "items"
+  },
+  {
+    "id": "traffic_light",
+    "name_ru": "Светофор",
+    "name_en": "Traffic Light",
+    "size_meters": 1.05,
+    "dimension_type": "height",
+    "category": "city"
+  },
+  {
+    "id": "emperor_penguin",
+    "name_ru": "Императорский пингвин",
+    "name_en": "Emperor Penguin",
+    "size_meters": 1.15,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "human_adult",
+    "name_ru": "Взрослый человек",
+    "name_en": "Adult Human",
+    "size_meters": 1.75,
+    "dimension_type": "height",
+    "category": "people"
+  },
+  {
+    "id": "bicycle",
+    "name_ru": "Велосипед",
+    "name_en": "Bicycle",
+    "size_meters": 1.75,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "vending_machine",
+    "name_ru": "Торговый автомат",
+    "name_en": "Vending Machine",
+    "size_meters": 1.85,
+    "dimension_type": "height",
+    "category": "appliances"
+  },
+  {
+    "id": "refrigerator",
+    "name_ru": "Холодильник",
+    "name_en": "Refrigerator",
+    "size_meters": 1.9,
+    "dimension_type": "height",
+    "category": "appliances"
+  },
+  {
+    "id": "grizzly_bear",
+    "name_ru": "Бурый медведь",
+    "name_en": "Grizzly Bear",
+    "size_meters": 2.0,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "satellite",
+    "name_ru": "Орбитальный спутник",
+    "name_en": "Orbital Satellite",
+    "size_meters": 2.0,
+    "dimension_type": "length",
+    "category": "space"
+  },
+  {
+    "id": "motorcycle",
+    "name_ru": "Мотоцикл",
+    "name_en": "Motorcycle",
+    "size_meters": 2.1,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "moose",
+    "name_ru": "Лось",
+    "name_en": "Moose",
+    "size_meters": 2.3,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "ostrich",
+    "name_ru": "Страус",
+    "name_en": "Ostrich",
+    "size_meters": 2.5,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "grand_piano",
+    "name_ru": "Концертный рояль",
+    "name_en": "Grand Piano",
+    "size_meters": 2.74,
+    "dimension_type": "length",
+    "category": "items"
+  },
+  {
+    "id": "african_elephant",
+    "name_ru": "Африканский слон",
+    "name_en": "African Elephant",
+    "size_meters": 3.3,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "pool_table",
+    "name_ru": "Бильярдный стол",
+    "name_en": "Pool Table",
+    "size_meters": 3.5,
+    "dimension_type": "length",
+    "category": "sports"
+  },
+  {
+    "id": "tractor",
+    "name_ru": "Трактор",
+    "name_en": "Tractor",
+    "size_meters": 3.8,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "t_rex",
+    "name_ru": "Тираннозавр рекс",
+    "name_en": "Tyrannosaurus Rex",
+    "size_meters": 4.0,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "moai_statue",
+    "name_ru": "Статуя Моаи",
+    "name_en": "Moai Easter Island Statue",
+    "size_meters": 4.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "sedan_car",
+    "name_ru": "Легковой седан",
+    "name_en": "Sedan Car",
+    "size_meters": 4.6,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "great_white_shark",
+    "name_ru": "Белая акула",
+    "name_en": "Great White Shark",
+    "size_meters": 4.8,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "suv_car",
+    "name_ru": "Внедорожник",
+    "name_en": "SUV Car",
+    "size_meters": 5.0,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "parking_space",
+    "name_ru": "Автомобильная парковка",
+    "name_en": "Parking Space",
+    "size_meters": 5.0,
+    "dimension_type": "length",
+    "category": "city"
+  },
+  {
+    "id": "formula_1_car",
+    "name_ru": "Болид Формулы-1",
+    "name_en": "Formula 1 Car",
+    "size_meters": 5.5,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "giraffe",
+    "name_ru": "Жираф",
+    "name_en": "Giraffe",
+    "size_meters": 5.5,
+    "dimension_type": "height",
+    "category": "animals"
+  },
+  {
+    "id": "tesla_cybertruck",
+    "name_ru": "Тесла Кибертрак",
+    "name_en": "Tesla Cybertruck",
+    "size_meters": 5.68,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "orca_whale",
+    "name_ru": "Косатка",
+    "name_en": "Orca Killer Whale",
+    "size_meters": 7.5,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "mining_dump_truck",
+    "name_ru": "Карьерный самосвал",
+    "name_en": "Mining Dump Truck",
+    "size_meters": 8.16,
+    "dimension_type": "height",
+    "category": "vehicles"
+  },
+  {
+    "id": "city_bus",
+    "name_ru": "Городской автобус",
+    "name_en": "City Bus",
+    "size_meters": 12.0,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "trolleybus",
+    "name_ru": "Городской троллейбус",
+    "name_en": "Trolleybus",
+    "size_meters": 12.0,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "megalodon",
+    "name_ru": "Мегалодон",
+    "name_en": "Megalodon",
+    "size_meters": 16.0,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "great_sphinx",
+    "name_ru": "Большой сфинкс",
+    "name_en": "Great Sphinx of Giza",
+    "size_meters": 20.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "tennis_court",
+    "name_ru": "Теннисный корт",
+    "name_en": "Tennis Court",
+    "size_meters": 23.77,
+    "dimension_type": "length",
+    "category": "sports"
+  },
+  {
+    "id": "train_carriage",
+    "name_ru": "Пассажирский вагон",
+    "name_en": "Train Carriage",
+    "size_meters": 24.5,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "sauropod",
+    "name_ru": "Зауропод (Диплодок)",
+    "name_en": "Sauropod Dinosaur",
+    "size_meters": 25.0,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "helicopter_mi8",
+    "name_ru": "Вертолёт Ми-8",
+    "name_en": "Mi-8 Helicopter",
+    "size_meters": 25.24,
+    "dimension_type": "length",
+    "category": "aviation"
+  },
+  {
+    "id": "basketball_court",
+    "name_ru": "Баскетбольная площадка",
+    "name_en": "Basketball Court",
+    "size_meters": 28.0,
+    "dimension_type": "length",
+    "category": "sports"
+  },
+  {
+    "id": "blue_whale",
+    "name_ru": "Синий кит",
+    "name_en": "Blue Whale",
+    "size_meters": 30.0,
+    "dimension_type": "length",
+    "category": "animals"
+  },
+  {
+    "id": "boeing_737",
+    "name_ru": "Самолёт Боинг 737",
+    "name_en": "Boeing 737",
+    "size_meters": 35.5,
+    "dimension_type": "length",
+    "category": "aviation"
+  },
+  {
+    "id": "al_aqsa_mosque",
+    "name_ru": "Мечеть Аль-Акса",
+    "name_en": "Al-Aqsa Mosque",
+    "size_meters": 37.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "christ_the_redeemer",
+    "name_ru": "Статуя Христа-Искупителя",
+    "name_en": "Christ the Redeemer",
+    "size_meters": 38.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "vostok_rocket",
+    "name_ru": "Ракета Восток-1",
+    "name_en": "Vostok-1 Rocket",
+    "size_meters": 38.4,
+    "dimension_type": "height",
+    "category": "space"
+  },
+  {
+    "id": "statue_of_liberty",
+    "name_ru": "Статуя Свободы",
+    "name_en": "Statue of Liberty",
+    "size_meters": 46.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "arc_de_triomphe",
+    "name_ru": "Триумфальная арка",
+    "name_en": "Arc de Triomphe",
+    "size_meters": 49.5,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "olympic_pool",
+    "name_ru": "Олимпийский бассейн",
+    "name_en": "Olympic Swimming Pool",
+    "size_meters": 50.0,
+    "dimension_type": "length",
+    "category": "sports"
+  },
+  {
+    "id": "hagia_sophia",
+    "name_ru": "Собор Святой Софии",
+    "name_en": "Hagia Sophia",
+    "size_meters": 55.6,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "st_basils_cathedral",
+    "name_ru": "Храм Василия Блаженного",
+    "name_en": "Saint Basil's Cathedral",
+    "size_meters": 65.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "notre_dame_paris",
+    "name_ru": "Собор Парижской Богоматери",
+    "name_en": "Notre-Dame de Paris",
+    "size_meters": 69.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "airbus_a380",
+    "name_ru": "Самолёт Аэробус А380",
+    "name_en": "Airbus A380",
+    "size_meters": 72.72,
+    "dimension_type": "length",
+    "category": "aviation"
+  },
+  {
+    "id": "general_sherman_tree",
+    "name_ru": "Секвойя «Генерал Шерман»",
+    "name_en": "General Sherman Sequoia Tree",
+    "size_meters": 83.8,
+    "dimension_type": "height",
+    "category": "nature"
+  },
+  {
+    "id": "motherland_calls",
+    "name_ru": "Родина-мать зовёт!",
+    "name_en": "The Motherland Calls",
+    "size_meters": 85.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "big_ben_tower",
+    "name_ru": "Башня Биг-Бен",
+    "name_en": "Big Ben Clock Tower",
+    "size_meters": 96.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "starship_spacex",
+    "name_ru": "Ракета Старшип",
+    "name_en": "SpaceX Starship Stack",
+    "size_meters": 121.0,
+    "dimension_type": "height",
+    "category": "space"
+  },
+  {
+    "id": "london_eye",
+    "name_ru": "Колесо обозрения «Лондонский глаз»",
+    "name_en": "London Eye Ferris Wheel",
+    "size_meters": 135.0,
+    "dimension_type": "diameter",
+    "category": "landmarks"
+  },
+  {
+    "id": "great_pyramid",
+    "name_ru": "Пирамида Хеопса",
+    "name_en": "Great Pyramid of Giza",
+    "size_meters": 138.8,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "typhoon_submarine",
+    "name_ru": "Подлодка «Акула» (Тайфун)",
+    "name_en": "Typhoon Class Submarine",
+    "size_meters": 175.0,
+    "dimension_type": "length",
+    "category": "military"
+  },
+  {
+    "id": "colosseum",
+    "name_ru": "Колизей",
+    "name_en": "Colosseum",
+    "size_meters": 189.0,
+    "dimension_type": "length",
+    "category": "landmarks"
+  },
+  {
+    "id": "titanic",
+    "name_ru": "Лайнер «Титаник»",
+    "name_en": "RMS Titanic",
+    "size_meters": 269.0,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "eiffel_tower",
+    "name_ru": "Эйфелева башня",
+    "name_en": "Eiffel Tower",
+    "size_meters": 330.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "aircraft_carrier",
+    "name_ru": "Авианосец Нимиц",
+    "name_en": "Nimitz Aircraft Carrier",
+    "size_meters": 333.0,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "cruise_ship",
+    "name_ru": "Круизный лайнер",
+    "name_en": "Cruise Ship",
+    "size_meters": 365.0,
+    "dimension_type": "length",
+    "category": "vehicles"
+  },
+  {
+    "id": "lakhta_center",
+    "name_ru": "Лахта Центр (Петербург)",
+    "name_en": "Lakhta Center",
+    "size_meters": 462.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "taipei_101",
+    "name_ru": "Небоскрёб Тайбэй 101",
+    "name_en": "Taipei 101",
+    "size_meters": 508.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "ostankino_tower",
+    "name_ru": "Останкинская телебашня",
+    "name_en": "Ostankino Tower",
+    "size_meters": 540.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "shanghai_tower",
+    "name_ru": "Шанхайская башня",
+    "name_en": "Shanghai Tower",
+    "size_meters": 632.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "burj_khalifa",
+    "name_ru": "Небоскрёб Бурдж-Халифа",
+    "name_en": "Burj Khalifa",
+    "size_meters": 828.0,
+    "dimension_type": "height",
+    "category": "landmarks"
+  },
+  {
+    "id": "golden_gate_span",
+    "name_ru": "Пролёт моста Золотые Ворота",
+    "name_en": "Golden Gate Bridge Span",
+    "size_meters": 1280.0,
+    "dimension_type": "length",
+    "category": "structures"
+  },
+  {
+    "id": "mount_fuji",
+    "name_ru": "Вулкан Фудзияма",
+    "name_en": "Mount Fuji",
+    "size_meters": 3776.0,
+    "dimension_type": "height",
+    "category": "nature"
+  },
+  {
+    "id": "central_park_ny",
+    "name_ru": "Центральный парк Нью-Йорка",
+    "name_en": "Central Park NYC",
+    "size_meters": 4000.0,
+    "dimension_type": "length",
+    "category": "nature"
+  },
+  {
+    "id": "mount_elbrus",
+    "name_ru": "Гора Эльбрус",
+    "name_en": "Mount Elbrus",
+    "size_meters": 5642.0,
+    "dimension_type": "height",
+    "category": "nature"
+  },
+  {
+    "id": "mount_everest",
+    "name_ru": "Гора Эверест",
+    "name_en": "Mount Everest",
+    "size_meters": 8848.0,
+    "dimension_type": "height",
+    "category": "nature"
+  },
+  {
+    "id": "chicxulub_asteroid",
+    "name_ru": "Астероид Чикшулуб",
+    "name_en": "Chicxulub Asteroid",
+    "size_meters": 10000.0,
+    "dimension_type": "diameter",
+    "category": "space"
+  },
+  {
+    "id": "neutron_star",
+    "name_ru": "Нейтронная звезда",
+    "name_en": "Neutron Star",
+    "size_meters": 20000.0,
+    "dimension_type": "diameter",
+    "category": "space"
+  },
+  {
+    "id": "moon",
+    "name_ru": "Луна",
+    "name_en": "Moon",
+    "size_meters": 3474000.0,
+    "dimension_type": "diameter",
+    "category": "space"
+  }
+]
